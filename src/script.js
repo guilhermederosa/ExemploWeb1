@@ -65,3 +65,18 @@ console.log( valor1> 10 &&  valor2 < 10 );
 console.log(valor1 < 100 || valor1 > 10 );
 console.log(valor1 == valor2);
 console.log(valor1 === valor2)
+
+//Ex 1
+let p= exemplo3
+let v= valor1 
+console.log(p-v);
+
+//Ex 2
+let a = exemplo3;
+let b = valor1;
+console.log(a===20 && b>= 10);
+
+// Ex 3
+let user_login=true;
+let user_token=true;
+console.log(user_login==true && user_token == true);
